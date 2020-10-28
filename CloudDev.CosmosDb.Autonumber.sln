@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDev.CosmosDb.Autonumber.Sample", "CloudDev.CosmosDb.Autonumber.Sample\CloudDev.CosmosDb.Autonumber.Sample.csproj", "{4CE462DD-9156-4347-AC46-FB8338229FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE462DD-9156-4347-AC46-FB8338229FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE462DD-9156-4347-AC46-FB8338229FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE462DD-9156-4347-AC46-FB8338229FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE462DD-9156-4347-AC46-FB8338229FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

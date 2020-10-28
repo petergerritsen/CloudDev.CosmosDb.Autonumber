@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>CloudDev.CosmosDb.Autonumber</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Bogus" Version="31.0.3" />
+      <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.14.0" />
+      <PackageReference Include="Polly" Version="7.2.1" />
+      <PackageReference Include="Polly.Contrib.WaitAndRetry" Version="1.1.1" />
+    </ItemGroup>
+
+</Project>
